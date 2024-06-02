@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Raparks59
+- 👋 Hi, I’m Robert with AI Smartbots
 - 👀 I’m interested in building websites
 - 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on web development projects
-- 📫 How to reach me: Raparks59@gmail.com
+- 📫 How to reach me: Robert@aismartbots.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Life is fun if you laugh at yourself
